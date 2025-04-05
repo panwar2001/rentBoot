@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="rentBoot.dynamicfeature" target="21" />
+      <module name="rentBoot.lib" target="11" />
+      <module name="rentBoot.lib.main" target="11" />
+      <module name="rentBoot.lib.test" target="11" />
+      <module name="rentBoot.mylibrary" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

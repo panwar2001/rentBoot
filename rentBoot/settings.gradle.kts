@@ -1,4 +1,5 @@
 pluginManagement {
+    includeBuild("build-logic")
     repositories {
         google {
             content {
@@ -20,4 +21,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "rentBoot"
+enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 include(":app")
